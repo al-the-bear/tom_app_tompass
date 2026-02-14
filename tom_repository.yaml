@@ -1,0 +1,8 @@
+# Tom Repository Configuration
+# This file identifies the repository for git traversal commands
+
+repository_id: TPASS
+name: tompass
+description: >-
+  TomPass password manager application with KDBX support and cloud sync.
+github: al-the-bear/tom_app_tompass
